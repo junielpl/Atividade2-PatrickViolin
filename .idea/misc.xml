@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/arrow_right.xml" value="0.2203125" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/background_edittext_email.xml" value="0.2203125" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/background_edittext_password.xml" value="0.2203125" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/background_edittext_phone.xml" value="0.2203125" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/background_edittext_user.xml" value="0.2203125" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/shape_botao_gradiente.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/shape_contorno_imagem.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/shape_contorno_logo.xml" value="0.2203125" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/drawable/shape_edit_text.xml" value="0.2203125" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/layout/cadastro_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/Atividade2/app/src/main/res/layout/login_activity.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
